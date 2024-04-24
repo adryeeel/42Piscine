@@ -1,4 +1,4 @@
-# 42Piscine
+# 🏊 42Piscine
 
 _Piscine_ is a French term meaning "swimming pool" that refers to a intensive and immersive programming boot camp that serves as the entry point to 42 school course.
 
@@ -8,7 +8,7 @@ The piscine is designed to identify individuals with the potential to excel in t
 
 Talking about me, I undertook the #7 C piscine at 42 Porto, which took place on 2023/08. I improved my skills and achieved remarkable feats throughout this enriching journey. Notably, I secured the 2nd position in my piscine cohort, significantly bolstering my coalition's success as we emerged victorious in the boot camp.
 
-The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 solo projects, 4 rigorous exams, 4 intense rushes, and culminated in a collaborative BSQ group project. Below, I provide an overview of my performance during this demanding yet rewarding experience.
+The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 solo projects, 4 rigorous exams, 3 intense rushes, and culminated in a collaborative BSQ group project. Below, I provide an overview of my performance during this demanding yet rewarding experience.
 
 ## Projects
 
@@ -49,4 +49,10 @@ My initial attempt at the exams was fraught with nerves and a lack of preparatio
 
 Rushes are group projects that happen during the weekends of the piscine. They are intensive and demanding endeavors that test the skills, resilience, and teamwork of students.
 
-In total, there are four rush projects. Unfortunaly, during my during piscine I was not able to accomplish any of them, but by trying, I was able to acquire insane communication skills, teammork, and problem-solving capabilities. These skills help me a lot later in completing other C piscine projects.
+In total, there are three rush projects. Unfortunaly, during my during piscine I was not able to accomplish any of them, but by trying, I was able to acquire insane communication skills, teammork, and problem-solving capabilities. These skills help me a lot later in completing other C piscine projects.
+
+| No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
+| --- | --- | --- | --- | --- | --- |
+| 1️⃣ | 💨 Rush 00 | C basics and program arguments. | ❌ | 0% | 0/48 |
+| 2️⃣ | 💨 Rush 01 | String manipulation and data conversion. | ❌ | 0% | 35/48 |
+| 3️⃣ | 💨 Rush 02 | Data sort, memory management and strings. | ❌ | 0% | 20/48 |
