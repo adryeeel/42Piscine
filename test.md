@@ -1,6 +1,6 @@
 # Test
 
-| No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score (%) | ⌛ Hours |
+| No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | --- | --- | --- |
 | 0️⃣ | 🌁 Eu aceito Porto | Introduces the pisciner to the world of `git` and `SSH` authentication. | ✅ | 100/100 | 1/1 |
 | 1️⃣ | 📟 Shell 00 | Introduction to linux OS and terminal. | ✅ | 100/100 | 24/24 |
