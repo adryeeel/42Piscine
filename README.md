@@ -112,6 +112,40 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 - 🏆 **Score**: 100/100
 - ⌛ **Time**: 20/24
 
+---
+
+1️⃣3️⃣ ✴️ **C 10** - String manipulation.
+
+- 🚀 **Status**: ❌
+- 🏆 **Score**: 0/100
+- ⌛ **Time**: 0/24
+
+
+---
+
+1️⃣4️⃣ ✴️ **C 11** - String manipulation.
+
+- 🚀 **Status**: ❌
+- 🏆 **Score**: 0/100
+- ⌛ **Time**: 0/24
+
+
+---
+
+1️⃣5️⃣ ✴️ **C 12** - String manipulation.
+
+- 🚀 **Status**: ❌
+- 🏆 **Score**: 100/100
+- ⌛ **Time**: 20/24
+
+
+---
+
+1️⃣6️⃣ 🇨**13** - String manipulation.
+
+- 🚀 **Status**: ❌
+- 🏆 **Score**: 0/100
+- ⌛ **Time**: 0/24
 
 ## Exams
 
