@@ -6,7 +6,7 @@ During the piscine, prospective students, known as "pisciners", undergo a rigoro
 
 The piscine is designed to identify individuals with the potential to excel in the field of computer science, regardless of their background or prior experience.
 
-Talking about me, I undertook the #7 C piscine at 42 Porto, where I improved my skills and achieved remarkable feats throughout this enriching journey. Notably, I secured the 2nd position in my piscine cohort, significantly bolstering my coalition's success as we emerged victorious in the boot camp.
+Talking about me, I undertook the #7 C piscine at 42 Porto, which took on 2023/08. I improved my skills and achieved remarkable feats throughout this enriching journey. Notably, I secured the 2nd position in my piscine cohort, significantly bolstering my coalition's success as we emerged victorious in the boot camp.
 
 The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 solo projects, 4 rigorous exams, 4 intense rushes, and culminated in a collaborative BSQ group project. Below, I provide an overview of my performance during this demanding yet rewarding experience.
 
