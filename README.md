@@ -18,19 +18,19 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 | 1️⃣ | 📟 Shell 00 | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
 | 2️⃣ | 📟 Shell 01 | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
 | 3️⃣ | ⭐ [C 00](projects/c00) | Introduction to C programming. | ✅ | 100% | 24/24 |
-| 4️⃣ | ⭐ C 01 | Loops, pointers and introduction to strings. | ✅ | 100% | 22/24 |
-| 5️⃣ | ⭐ C 02 | String manipulation. | ✅ | 75% | 20/24 |
-| 6️⃣ | ⭐ C 03 | Recoding functions from C Standard Library. | ✅ | 100% | 20/24 |
-| 7️⃣ | ⭐ C 04 | Writing to the standard output and bases conversion. | ✅ | 100% | 20/24 |
-| 8️⃣ | ⭐ C 05 | Recursion and The Queens problem. | ✅ | 80% | 20/24 |
-| 9️⃣ | ⭐ C 06 | Program parameters and data sort. | ✅ | 100% | 20/24 |
-| 1️⃣0️⃣ | ⭐ C 07 | Dynamic memory allocation and arrays. | ✅ | 100% | 20/24 |
-| 1️⃣1️⃣ | ⭐ C 08 | Headers, structs and custom data types. | ✅ | 100% | 20/24 |
-| 1️⃣2️⃣ | ⭐ C 09 | Makefile and static libraries. | ✅ | 100% | 20/24 |
-| 1️⃣3️⃣ | ⭐ C 10 | Files handling and recoding shell commands. | ❌ | 0% | 4/24 |
-| 1️⃣4️⃣ | ⭐ C 11 | Functions as arguments and array mapping. | ❌ | 0% | 0/24 |
-| 1️⃣5️⃣ | ⭐ C 12 | Handling singly linked lists. | ❌ | 0% | 0/24 |
-| 1️⃣6️⃣ | ⭐ C 13 | Manipulation of binary trees. | ❌ | 0% | 0/24 |
+| 4️⃣ | ⭐ [C 01](projects/c01) | Loops, pointers and introduction to strings. | ✅ | 100% | 22/24 |
+| 5️⃣ | ⭐ [C 02](projects/c02) | String manipulation. | ✅ | 75% | 20/24 |
+| 6️⃣ | ⭐ [C 03](projects/c03) | Recoding functions from C Standard Library. | ✅ | 100% | 20/24 |
+| 7️⃣ | ⭐ [C 04](projects/c04) | Writing to the standard output and bases conversion. | ✅ | 100% | 20/24 |
+| 8️⃣ | ⭐ [C 05](projects/c05) | Recursion and The Queens problem. | ✅ | 80% | 20/24 |
+| 9️⃣ | ⭐ [C 06](projects/c06) | Program parameters and data sort. | ✅ | 100% | 20/24 |
+| 1️⃣0️⃣ | ⭐ [C 07](projects/c07) | Dynamic memory allocation and arrays. | ✅ | 100% | 20/24 |
+| 1️⃣1️⃣ | ⭐ [C 08](projects/c08) | Headers, structs and custom data types. | ✅ | 100% | 20/24 |
+| 1️⃣2️⃣ | ⭐ [C 09](projects/c09) | Makefile and static libraries. | ✅ | 100% | 20/24 |
+| 1️⃣3️⃣ | ⭐ [C 10](projects/c10) | Files handling and recoding shell commands. | ❌ | 0% | 4/24 |
+| 1️⃣4️⃣ | ⭐ [C 11](projects/c11) | Functions as arguments and array mapping. | ❌ | 0% | 0/24 |
+| 1️⃣5️⃣ | ⭐ [C 12](projects/c12) | Handling singly linked lists. | ❌ | 0% | 0/24 |
+| 1️⃣6️⃣ | ⭐ [C 13](projects/c13) | Manipulation of binary trees. | ❌ | 0% | 0/24 |
 
 ## Exams
 
@@ -53,6 +53,6 @@ In total, there are three rush projects. Unfortunaly, during my during piscine I
 
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | :---: | --- | --- |
-| 1️⃣ | 💨 Rush 00 | Draw a square following strict rules. | ❌ | 0% | 0/48 |
-| 2️⃣ | 💨 Rush 01 | Skyscraper solver. | ❌ | 0% | 35/48 |
-| 3️⃣ | 💨 Rush 02 | Write numbers in words following a dictionary. | ❌ | 0% | 20/48 |
+| 1️⃣ | 💨 [Rush 00](projects/rush00) | Draw a square following strict rules. | ❌ | 0% | 0/48 |
+| 2️⃣ | 💨 [Rush 01](projects/rush01) | Skyscraper solver. | ❌ | 0% | 35/48 |
+| 3️⃣ | 💨 [Rush 02](projects/rush02) | Write numbers in words following a dictionary. | ❌ | 0% | 20/48 |
