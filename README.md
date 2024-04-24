@@ -36,7 +36,7 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 
 The piscine exams at 42 are renowned for their rigorous nature. Throughout my journey, participants were permitted only a pen, a bottle of water, and a computer devoid of internet access. Any form of noise or conversation was strictly prohibited, creating an environment of focused concentration.
 
-My initial attempt at the exams was fraught with nerves and a lack of preparedness, leading to a less-than-ideal performance. However, I swiftly rebounded and managed to regain my composure for subsequent exams, ultimately showcasing my resilience and adaptability in the face of challenges.
+My initial attempt at the exams was fraught with nerves and a lack of preparation, leading to a less-than-ideal performance. However, I quickly rebounded and managed to improve myself for subsequent exams, ultimately showcasing my resilience and adaptability in the face of challenges.
 
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | --- | --- | --- |
