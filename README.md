@@ -24,7 +24,7 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 | 7️⃣ | ⭐ **[C 04](projects/c04)** | Writing to the standard output and bases conversion. | ✅ | 100% | 19/24 |
 | 8️⃣ | ⭐ **[C 05](projects/c05)** | Recursion and The Queens problem. | ✅ | 80% | 13/24 |
 | 9️⃣ | ⭐ **[C 06](projects/c06)** | Program parameters and data sort. | ✅ | 100% | 5/24 |
-| 1️⃣0️⃣ | ⭐ [**C 07](projects/c07)** | Dynamic memory allocation and arrays. | ✅ | 100% | 21/24 |
+| 1️⃣0️⃣ | ⭐ **[C 07](projects/c07)** | Dynamic memory allocation and arrays. | ✅ | 100% | 21/24 |
 | 1️⃣1️⃣ | ⭐ **[C 08](projects/c08)** | Headers, structs and custom data types. | ✅ | 100% | 18/24 |
 | 1️⃣2️⃣ | ⭐ **[C 09](projects/c09)** | Makefile and static libraries. | ✅ | 100% | 20/24 |
 | 1️⃣3️⃣ | ⭐ **[C 10](projects/c10)** | Files handling and recoding shell commands. | ❌ | 0% | 4/24 |
