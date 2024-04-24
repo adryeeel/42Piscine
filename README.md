@@ -53,6 +53,6 @@ In total, there are three rush projects. Unfortunaly, during my during piscine I
 
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | --- | --- | --- |
-| 1️⃣ | 💨 Rush 00 | C basics and program arguments. | ❌ | 0% | 0/48 |
-| 2️⃣ | 💨 Rush 01 | String manipulation and data conversion. | ❌ | 0% | 35/48 |
-| 3️⃣ | 💨 Rush 02 | Data sort, memory management and strings. | ❌ | 0% | 20/48 |
+| 1️⃣ | 💨 Rush 00 | Draw a square following strict rules. | ❌ | 0% | 0/48 |
+| 2️⃣ | 💨 Rush 01 | Skyscraper solver. | ❌ | 0% | 35/48 |
+| 3️⃣ | 💨 Rush 02 | Write numbers in words following a dictionary. | ❌ | 0% | 20/48 |
