@@ -14,9 +14,9 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | :---: | --- | --- |
-| 0️⃣ | 🌁 Eu aceito Porto | Introduction to `git` and `SSH` authentication. | ✅ | 100% | 1/1 |
-| 1️⃣ | 📟 Shell 00 | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
-| 2️⃣ | 📟 Shell 01 | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
+| 0️⃣ | 🌁 [Eu aceito Porto](projects/eu-aceito-porto) | Introduction to `git` and `SSH` authentication. | ✅ | 100% | 1/1 |
+| 1️⃣ | 📟 [Shell 00](projects/shell00) | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
+| 2️⃣ | 📟 [Shell 01](projects/shell01) | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
 | 3️⃣ | ⭐ [C 00](projects/c00) | Introduction to C programming. | ✅ | 100% | 24/24 |
 | 4️⃣ | ⭐ [C 01](projects/c01) | Loops, pointers and introduction to strings. | ✅ | 100% | 22/24 |
 | 5️⃣ | ⭐ [C 02](projects/c02) | String manipulation. | ✅ | 75% | 20/24 |
