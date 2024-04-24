@@ -2,7 +2,7 @@
 
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | --- | --- | --- |
-| 0️⃣ | 🌁 Eu aceito Porto | Introduces the pisciner to the world of `git` and `SSH` authentication. | ✅ | 100/100 | 1/1 |
+| 0️⃣ | 🌁 Eu aceito Porto | Introduces the pisciner to the world of `git` and `SSH` authentication. | ✅ | 100% | 1/1 |
 | 1️⃣ | 📟 Shell 00 | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
 | 2️⃣ | 📟 Shell 01 | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
 | 3️⃣ | ⭐ C 00 | Introduction to C programming. | ✅ | 100% | 24/24 |
@@ -17,5 +17,5 @@
 | 1️⃣2️⃣ | ⭐ C 09 | String manipulation. | ✅ | 100% | 20/24 |
 | 1️⃣3️⃣ | ⭐ C 10 | String manipulation. | ❌ | 0% | 2/24 |
 | 1️⃣4️⃣ | ⭐ C 11 | String manipulation. | ❌ | 0% | 0/24 |
-| 1️⃣5️⃣ | ⭐ C 12 | String manipulation. | ❌ | 100% | 20/24 |
+| 1️⃣5️⃣ | ⭐ C 12 | String manipulation. | ❌ | 0% | 0/24 |
 | 1️⃣6️⃣ | ⭐ C 13 | String manipulation. | ❌ | 0% | 0/24 |
