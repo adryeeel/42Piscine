@@ -34,7 +34,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-3️⃣ 💻 **C 00** - Introduction to C programming.
+3️⃣ ⭐ **C 00** - Introduction to C programming.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -42,7 +42,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-4️⃣ 💻 **C 01** - Loops, pointers and strings.
+4️⃣ ⭐ **C 01** - Loops, pointers and strings.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -50,7 +50,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-5️⃣ 💻 **C 02** - String manipulation.
+5️⃣ ⭐ **C 02** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 75/100
@@ -58,7 +58,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-6️⃣ 💻 **C 03** - String manipulation.
+6️⃣ ⭐ **C 03** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -66,7 +66,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-7️⃣ 💻 **C 04** - String manipulation.
+7️⃣ ⭐ **C 04** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -74,7 +74,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-8️⃣ 💻 **C 05** - String manipulation.
+8️⃣ ⭐ **C 05** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 80/100
@@ -82,7 +82,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-9️⃣ 💻 **C 06** - String manipulation.
+9️⃣ ⭐ **C 06** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -90,7 +90,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-1️⃣0️⃣ 💻 **C 07** - String manipulation.
+1️⃣0️⃣ ⭐ **C 07** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -98,7 +98,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-1️⃣1️⃣ 💻 **C 08** - String manipulation.
+1️⃣1️⃣ ⭐ **C 08** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -106,7 +106,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-1️⃣2️⃣ 💻 **C 09** - String manipulation.
+1️⃣2️⃣ ⭐ **C 09** - String manipulation.
 
 - 🚀 **Status**: ✅
 - 🏆 **Score**: 100/100
@@ -114,34 +114,31 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 ---
 
-1️⃣3️⃣ 💻 **C 10** - String manipulation.
+1️⃣3️⃣ ⭐ **C 10** - String manipulation.
+
+- 🚀 **Status**: ❌
+- 🏆 **Score**: 0/100
+- ⌛ **Time**: 2/24
+
+---
+
+1️⃣4️⃣ ⭐ **C 11** - String manipulation.
 
 - 🚀 **Status**: ❌
 - 🏆 **Score**: 0/100
 - ⌛ **Time**: 0/24
 
-
 ---
 
-1️⃣4️⃣ 💻 **C 11** - String manipulation.
-
-- 🚀 **Status**: ❌
-- 🏆 **Score**: 0/100
-- ⌛ **Time**: 0/24
-
-
----
-
-1️⃣5️⃣ 💻 **C 12** - String manipulation.
+1️⃣5️⃣ ⭐ **C 12** - String manipulation.
 
 - 🚀 **Status**: ❌
 - 🏆 **Score**: 100/100
 - ⌛ **Time**: 20/24
 
-
 ---
 
-1️⃣6️⃣ 💻 **C 13** - String manipulation.
+1️⃣6️⃣ ⭐ **C 13** - String manipulation.
 
 - 🚀 **Status**: ❌
 - 🏆 **Score**: 0/100
