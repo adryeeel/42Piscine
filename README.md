@@ -12,7 +12,7 @@ Particularly, I did the #7 C piscine of 42 Porto and acquired great skills and s
 
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | --- | --- | --- |
-| 0️⃣ | 🌁 Eu aceito Porto | Introduces the pisciner to the world of `git` and `SSH` authentication. | ✅ | 100% | 1/1 |
+| 0️⃣ | 🌁 Eu aceito Porto | Introduction to `git` and `SSH` authentication. | ✅ | 100% | 1/1 |
 | 1️⃣ | 📟 Shell 00 | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
 | 2️⃣ | 📟 Shell 01 | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
 | 3️⃣ | ⭐ C 00 | Introduction to C programming. | ✅ | 100% | 24/24 |
