@@ -34,12 +34,16 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 
 ## Exams
 
+The piscine exams at 42 are renowned for their rigorous nature. Throughout my journey, participants were permitted only a pen, a bottle of water, and a computer devoid of internet access. Any form of noise or conversation was strictly prohibited, creating an environment of focused concentration.
+
+My initial attempt at the exams was fraught with nerves and a lack of preparedness, leading to a less-than-ideal performance. However, I swiftly rebounded and managed to regain my composure for subsequent exams, ultimately showcasing my resilience and adaptability in the face of challenges.
+
 | No. | 📃 Title | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
 | --- | --- | --- | --- | --- | --- |
 | 1️⃣ | 🌟 Exam 00 | C basics and program arguments. | ❌ | 10% | 4/4 |
 | 2️⃣ | 🌟 Exam 01 | String manipulation and data conversion. | ✅ | 90% | 4/4 |
 | 3️⃣ | 🌟 Exam 02 | Data sort, memory management and strings. | ✅ | 80% | 4/4 |
-| 4️⃣ | 🌟 Final Exam | Encompasses challenges of all C projects. | ✅ | 72% | 8/8 |
+| 4️⃣ | 🌟 Final Exam | Encompasses challenges from all C projects. | ✅ | 72% | 8/8 |
 
 ## Rushes
 
