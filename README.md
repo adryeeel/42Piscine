@@ -1,6 +1,6 @@
 # 🏊 42Piscine
 
-_Piscine_ is a French term meaning "swimming pool" that refers to a intensive and immersive programming boot camp that serves as the entry point to 42 school course.
+_Piscine_ is a french term meaning "swimming pool" that refers to a intensive and immersive programming boot camp that serves as the entry point to 42 school course.
 
 During the piscine, prospective students, known as "pisciners", undergo a rigorous four to six-week evaluation period where they are introduced to the fundamentals of programming and problem-solving.
 
@@ -18,19 +18,19 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 | 1️⃣ | 📟 Shell 00 | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
 | 2️⃣ | 📟 Shell 01 | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
 | 3️⃣ | ⭐ C 00 | Introduction to C programming. | ✅ | 100% | 24/24 |
-| 4️⃣ | ⭐ C 01 | Loops, pointers and strings. | ✅ | 100% | 22/24 |
+| 4️⃣ | ⭐ C 01 | Loops, pointers and introduction to strings. | ✅ | 100% | 22/24 |
 | 5️⃣ | ⭐ C 02 | String manipulation. | ✅ | 75% | 20/24 |
-| 6️⃣ | ⭐ C 03 | String manipulation. | ✅ | 100% | 20/24 |
-| 7️⃣ | ⭐ C 04 | String manipulation. | ✅ | 100% | 20/24 |
-| 8️⃣ | ⭐ C 05 | String manipulation. | ✅ | 80% | 20/24 |
-| 9️⃣ | ⭐ C 06 | String manipulation. | ✅ | 100% | 20/24 |
-| 1️⃣0️⃣ | ⭐ C 07 | String manipulation. | ✅ | 100% | 20/24 |
-| 1️⃣1️⃣ | ⭐ C 08 | String manipulation. | ✅ | 100% | 20/24 |
-| 1️⃣2️⃣ | ⭐ C 09 | String manipulation. | ✅ | 100% | 20/24 |
-| 1️⃣3️⃣ | ⭐ C 10 | String manipulation. | ❌ | 0% | 2/24 |
-| 1️⃣4️⃣ | ⭐ C 11 | String manipulation. | ❌ | 0% | 0/24 |
-| 1️⃣5️⃣ | ⭐ C 12 | String manipulation. | ❌ | 0% | 0/24 |
-| 1️⃣6️⃣ | ⭐ C 13 | String manipulation. | ❌ | 0% | 0/24 |
+| 6️⃣ | ⭐ C 03 | Recoding functions from C Standard Library. | ✅ | 100% | 20/24 |
+| 7️⃣ | ⭐ C 04 | Writing to standard output and base conversion. | ✅ | 100% | 20/24 |
+| 8️⃣ | ⭐ C 05 | Recursion and The Queens problem. | ✅ | 80% | 20/24 |
+| 9️⃣ | ⭐ C 06 | Program parameters and data sort. | ✅ | 100% | 20/24 |
+| 1️⃣0️⃣ | ⭐ C 07 | Dynamic memory allocation and arrays. | ✅ | 100% | 20/24 |
+| 1️⃣1️⃣ | ⭐ C 08 | Headers, structs and custom data types. | ✅ | 100% | 20/24 |
+| 1️⃣2️⃣ | ⭐ C 09 | Makefile and static libraries. | ✅ | 100% | 20/24 |
+| 1️⃣3️⃣ | ⭐ C 10 | Files handling and recoding shell commands. | ❌ | 0% | 4/24 |
+| 1️⃣4️⃣ | ⭐ C 11 | Functions as arguments and array mapping. | ❌ | 0% | 0/24 |
+| 1️⃣5️⃣ | ⭐ C 12 | Handling singly linked lists. | ❌ | 0% | 0/24 |
+| 1️⃣6️⃣ | ⭐ C 13 | Manipulation of binary trees. | ❌ | 0% | 0/24 |
 
 ## Exams
 
