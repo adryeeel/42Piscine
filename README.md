@@ -13,7 +13,7 @@ The #7 piscine at 42 Porto comprised a comprehensive curriculum featuring 16 sol
 ## Projects
 
 | No. | 📃 Project | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
-| --- | --- | --- | :---: | :---: | :---: |
+| :---: | --- | --- | :---: | :---: | :---: |
 | 0️⃣ | 🌁 **[Eu aceito Porto](projects/eu-aceito-porto)** | Introduction to `git` and `SSH` authentication. | ✅ | 100% | 1/1 |
 | 1️⃣ | 📟 **[Shell 00](projects/shell00)** | Introduction to linux OS and terminal. | ✅ | 100% | 24/24 |
 | 2️⃣ | 📟 **[Shell 01](projects/shell01)** | More in depth how to manipulate linux environment and terminal. | ✅ | 100% | 24/24 |
