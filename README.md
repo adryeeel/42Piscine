@@ -39,7 +39,7 @@ The piscine exams at 42 are renowned for their rigorous nature. Throughout my jo
 My initial attempt at the exams was fraught with nerves and a lack of preparation, leading to a less-than-ideal performance. However, I quickly rebounded and managed to improve myself for subsequent exams, ultimately showcasing my resilience and adaptability in the face of challenges.
 
 | No. | 📃 Project | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
-| --- | --- | --- | :---: | :---: | :---: |
+| :---: | --- | --- | :---: | :---: | :---: |
 | 1️⃣ | 🌟 **Exam 00** | C basics and program arguments. | ❌ | 10% | 4/4 |
 | 2️⃣ | 🌟 **Exam 01** | String manipulation and data conversion. | ✅ | 90% | 4/4 |
 | 3️⃣ | 🌟 **Exam 02** | Data sort, memory management and strings. | ✅ | 80% | 4/4 |
@@ -52,7 +52,7 @@ Rushes are group projects that happen during the weekends of the piscine. They a
 In total, there are three rush projects. Unfortunaly, during my during piscine I was not able to accomplish any of them, but by trying, I was able to acquire insane communication skills, teammork, and problem-solving capabilities. These skills help me a lot later in completing other C piscine projects.
 
 | No. | 📃 Project | 🖊️ Description | 🚀 Status | 🏆 Score | ⌛ Hours |
-| --- | --- | --- | :---: | :---: | :---: |
+| :---: | --- | --- | :---: | :---: | :---: |
 | 1️⃣ | 💨 **[Rush 00](projects/rush00)** | Draw a square following strict rules. | ❌ | 0% | 0/48 |
 | 2️⃣ | 💨 **[Rush 01](projects/rush01)** | Skyscraper solver. | ❌ | 0% | 35/48 |
 | 3️⃣ | 💨 **[Rush 02](projects/rush02)** | Write numbers in words following a dictionary. | ❌ | 0% | 20/48 |
